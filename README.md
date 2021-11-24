@@ -1,0 +1,2 @@
+# xmpppy
+belajar xmpp python
